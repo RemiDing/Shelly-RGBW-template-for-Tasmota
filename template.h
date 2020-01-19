@@ -30,7 +30,7 @@
      0
   },
   { "Shelly RGBW",     // (ESP8266)
-                       // 
+                       // maybe use setoption68
                        //  (PwmFrequency ??)
      GPIO_USER,        // GPIO00 
      GPIO_USER,        // GPIO01
